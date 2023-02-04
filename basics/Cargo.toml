@@ -1,0 +1,20 @@
+[package]
+name = "basics"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name="function"
+path="src/function/function.rs"
+
+[[bin]]
+name="string_interpolation"
+path="src/string_interpolation/string_interpolation.rs"
+
+[[bin]]
+name="debug"
+path="src/string_interpolation/debug.rs"
+
+[dependencies]
