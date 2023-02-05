@@ -13,7 +13,7 @@ struct RustDev {
 
 impl FatFart for RustDev {
     fn fat_fart(&self) {
-        println!("Rust tards be like: InHeRitance Is bAd reeeeEEEeeeee")
+        println!("Rust developers are fat fucks")
     }
 }
 

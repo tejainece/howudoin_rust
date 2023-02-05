@@ -26,6 +26,10 @@ name="extend-trait"
 path="src/trait/extend_trait.rs"
 
 [[bin]]
+name="inheritance-parody"
+path="src/trait/inheritance_parody.rs"
+
+[[bin]]
 name="borrow"
 path="src/borrow/borrow.rs"
 
