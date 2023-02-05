@@ -17,4 +17,16 @@ path="src/string_interpolation/string_interpolation.rs"
 name="debug"
 path="src/string_interpolation/debug.rs"
 
+[[bin]]
+name="trait"
+path="src/trait/trait.rs"
+
+[[bin]]
+name="extend-trait"
+path="src/trait/extend_trait.rs"
+
+[[bin]]
+name="borrow"
+path="src/borrow/borrow.rs"
+
 [dependencies]
